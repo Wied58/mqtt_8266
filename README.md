@@ -1,6 +1,6 @@
 This sketch will publish to the mqtt topic 'outTopic'.
 
-To use it change the floowing lines to reflect your network.
+To use it change the following lines to reflect your network.
 
 // Update these with values suitable for your network.
 
