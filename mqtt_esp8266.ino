@@ -28,9 +28,9 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "Apple Network 7817b9";
-const char* password = "trek9700";
-const char* mqtt_server = "10.0.1.31";
+const char* ssid = "xxxxxxx";
+const char* password = "xxxxxx";
+const char* mqtt_server = "0.0.0.0";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
